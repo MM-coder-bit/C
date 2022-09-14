@@ -1,0 +1,3 @@
+lalala,56,1.80
+lelele,54,1.79
+lululu,56,1.81
